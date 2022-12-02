@@ -1,2 +1,2 @@
-# afro-nft
-AfroNFT is a robust, multi-purpose NFT platform built by Africans for Africa and Africans.
+## Project Overview
+AfroNFT is a robust, multi-purpose NFT platform built by Africans for Africa and Africans. When you think of AfroNFT, think of a modern decentralized application (dApp) with an aggregator, marketplace for digital assets, portfolio manager, tokenization of real-world assets as well as many more features and functionalities, all integrated into a single platform that enables the average African to have unhindered access to emerging and futuristic technologies....
